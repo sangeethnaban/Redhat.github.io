@@ -24,7 +24,7 @@ To make a peanut butter and jelly sandwich, complete the following steps:
 1. Use the same butter knife to scoop a large amount of jelly.
 1. Spread jelly on top of another slice of bread.
 1. Take peanut butter side of the slice and flip it on top of jelly side of the slice. 
-1. Use the knife to cut the sandwich diagonally (from one corner to another).
+1. Use the knife to cut the sandwich diagonally _(from one corner to another)_
 
 ## Result
 
