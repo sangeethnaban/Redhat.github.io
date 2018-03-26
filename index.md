@@ -8,11 +8,10 @@ and jelly sandwich.
 
 You need the following ingredients to make a peanut butter and jelly sandwich:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ** Ingredients **   | ** Quantity **| 
+| Plate      | 1 | 
+| Bread Slices  _(white preferably)_    | 2      | 
+| zebra stripes | are neat      |   
 
 * A Plate
 * Two slices of bread _(white preferably)_
