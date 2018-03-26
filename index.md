@@ -8,22 +8,14 @@ and jelly sandwich.
 
 You need the following ingredients to make a peanut butter and jelly sandwich:
 
-
 | Ingredients| Quantity|
 | --- | --- |
 | Plate | 1 |
-| slices of bread (white preferably) | 2 |
+| Slices of bread (white preferably) | 2 |
 | Peanut butter| 1 large scoop|
 | Jelly (any flavour) | 1 large scoop |
-| butter knife | 1 |
-| knife | 1 | 
-
-* A Plate
-* Two slices of bread _(white preferably)_
-* Peanut butter
-* Jelly _(any flavour)_
-* A butter knife
-* A knife
+| Butter knife | 1 |
+| Knife | 1 | 
 
 ## Procedure
 
@@ -40,3 +32,6 @@ To make a peanut butter and jelly sandwich, complete the following steps:
 ## Result
 
 Your delicious peanut butter and jelly sandwich is ready to eat or serve.
+
+### Reference
+The reference for this article was taken from [wikiHow](https://www.wikihow.com/Make-a-Peanut-Butter-and-Jelly-Sandwich)
