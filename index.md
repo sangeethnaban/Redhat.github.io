@@ -7,6 +7,13 @@ and jelly sandwich.
 ## Requirements
 
 You need the following ingredients to make a peanut butter and jelly sandwich:
+/***
+| __Ingredients__ | __Quantity__ | 
+|-------------|------------|
+| Plate        | 1    |
+| Bread slices       | 2 | 
+***/
+
 * A Plate
 * Two slices of bread _(white preferably)_
 * Peanut butter
